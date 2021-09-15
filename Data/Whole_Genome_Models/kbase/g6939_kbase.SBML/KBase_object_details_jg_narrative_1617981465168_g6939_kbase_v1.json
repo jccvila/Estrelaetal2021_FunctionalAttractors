@@ -1,0 +1,97 @@
+{
+    "metadata": [
+        [
+            60,
+            "g6939_kbase",
+            "KBaseFBA.FBAModel-12.0",
+            "2021-04-12T16:21:12+0000",
+            1,
+            "vilacelestin2",
+            87868,
+            "jg:narrative_1617981465168",
+            "d4b74464a55b02fcd3bc92b23251b195",
+            3647173,
+            {
+                "Genome": "87868/43/1",
+                "Name": "g6939",
+                "Number biomasses": "1",
+                "Number compartments": "3",
+                "Number compounds": "2154",
+                "Number gapfills": "1",
+                "Number gapgens": "0",
+                "Number reactions": "2413",
+                "Source": "External",
+                "Source ID": "iJN1463.xml_model",
+                "Type": "SBML Model"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2021-04-12T16:21:12+0000",
+            "creator": "vilacelestin2",
+            "epoch": 1618244472004,
+            "extracted_ids": {},
+            "info": [
+                60,
+                "g6939_kbase",
+                "KBaseFBA.FBAModel-12.0",
+                "2021-04-12T16:21:12+0000",
+                1,
+                "vilacelestin2",
+                87868,
+                "jg:narrative_1617981465168",
+                "d4b74464a55b02fcd3bc92b23251b195",
+                3647173,
+                {
+                    "Genome": "87868/43/1",
+                    "Name": "g6939",
+                    "Number biomasses": "1",
+                    "Number compartments": "3",
+                    "Number compounds": "2154",
+                    "Number gapfills": "1",
+                    "Number gapgens": "0",
+                    "Number reactions": "2413",
+                    "Source": "External",
+                    "Source ID": "iJN1463.xml_model",
+                    "Type": "SBML Model"
+                }
+            ],
+            "orig_wsid": 87868,
+            "path": [
+                "87868/60/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "propagate_model_to_new_genome",
+                    "method_params": [
+                        {
+                            "custom_bound_list": [],
+                            "fbamodel_id": "87868/30/2",
+                            "fbamodel_output_id": "g6939_kbase",
+                            "gapfill_model": 1,
+                            "keep_nogene_rxn": 1,
+                            "media_id": "87868/33/1",
+                            "media_supplement_list": "",
+                            "minimum_target_flux": 0.1,
+                            "proteincomparison_id": "87868/48/1",
+                            "translation_policy": "add_reactions_for_unique_genes",
+                            "workspace": "jg:narrative_1617981465168"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "87868/43/1",
+                "87868/33/1"
+            ]
+        }
+    ]
+}

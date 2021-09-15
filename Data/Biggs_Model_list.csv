@@ -1,0 +1,109 @@
+Models,Genes,Reactions,Metabolites,Organism
+e_coli_core,137,95,72,Escherichia coli str. K-12 substr. MG1655
+iAB_RBC_283,346,469,342,Homo sapiens
+iAF1260,1261,2382,1668,Escherichia coli str. K-12 substr. MG1655
+iAF1260b,1261,2388,1668,Escherichia coli str. K-12 substr. MG1655
+iAF692,692,690,628,Methanosarcina barkeri str. Fusaro
+iAF987,987,1285,1109,Geobacter metallireducens GS-15
+iAM_Pb448,448,1067,903,Plasmodium berghei
+iAM_Pc455,455,1074,907,Plasmodium cynomolgi strain B
+iAM_Pf480,480,1083,909,Plasmodium falciparum 3D7
+iAM_Pk459,459,1079,909,Plasmodium knowlesi strain H
+iAM_Pv461,461,1078,909,Plasmodium vivax Sal-1
+iAPECO1_1312,1313,2735,1942,Escherichia coli APEC O1
+iAT_PLT_636,636,1008,738,Homo sapiens
+iB21_1397,1337,2741,1943,Escherichia coli BL21(DE3)
+iBWG_1329,1329,2741,1949,Escherichia coli BW2952
+ic_1306,1307,2726,1936,Escherichia coli CFT073
+iCHOv1,1766,6663,4456,Cricetulus griseus
+iCHOv1_DG44,1184,3942,2751,Cricetulus griseus
+iCN718,709,1015,888,Acinetobacter baumannii AYE
+iCN900,900,1229,885,Clostridioides difficile 630
+iE2348C_1286,1287,2703,1919,Escherichia coli O12
+iEC042_1314,1314,2714,1926,Escherichia coli 042
+iEC1344_C,1344,2726,1934,Escherichia coli C
+iEC1349_Crooks,1349,2756,1946,Escherichia coli ATCC 8739
+iEC1356_Bl21DE3,1356,2740,1918,Escherichia coli BL21(DE3)
+iEC1364_W,1364,2764,1927,Escherichia coli W
+iEC1368_DH5a,1368,2779,1951,Escherichia coli DH5[alpha]
+iEC1372_W3110,1372,2758,1918,Escherichia coli str. K-12 substr. W3110
+iEC55989_1330,1330,2756,1953,Escherichia coli 55989
+iECABU_c1320,1320,2731,1942,Escherichia coli ABU 83972
+iECB_1328,1329,2748,1951,Escherichia coli B str. REL606
+iECBD_1354,1354,2748,1952,Escherichia coli 'BL21-Gold(DE3)pLysS AG'
+iECD_1391,1333,2741,1943,Escherichia coli BL21(DE3)
+iECDH10B_1368,1327,2742,1947,Escherichia coli str. K-12 substr. DH10B
+iEcDH1_1363,1363,2750,1949,Escherichia coli DH1
+iECDH1ME8569_1439,1439,2755,1950,Escherichia coli DH1
+iEcE24377_1341,1341,2763,1972,Escherichia coli O13
+iECED1_1282,1279,2706,1929,Escherichia coli ED1a
+iECH74115_1262,1262,2694,1918,Escherichia coli O15
+iEcHS_1320,1321,2753,1963,Escherichia coli HS
+iECIAI1_1343,1343,2765,1968,Escherichia coli IAI1
+iECIAI39_1322,1321,2721,1953,Escherichia coli IAI39
+iECNA114_1301,1301,2718,1927,Escherichia coli NA114
+iECO103_1326,1327,2758,1958,Escherichia coli O10
+iECO111_1330,1328,2760,1959,Escherichia coli O11
+iECO26_1355,1355,2780,1965,Escherichia coli O2
+iECOK1_1307,1304,2729,1941,Escherichia coli IHE3034
+iEcolC_1368,1368,2768,1969,Escherichia coli ATCC 8739
+iECP_1309,1309,2739,1941,Escherichia coli 536
+iECs_1301,1301,2720,1923,Escherichia coli O15
+iECS88_1305,1305,2729,1942,Escherichia coli S88
+iECSE_1348,1348,2768,1957,Escherichia coli SE11
+iECSF_1327,1327,2742,1951,Escherichia coli SE15
+iEcSMS35_1347,1347,2746,1947,Escherichia coli SMS-3-5
+iECSP_1301,1299,2712,1920,Escherichia coli O15
+iECUMN_1333,1332,2740,1935,Escherichia coli UMN026
+iECW_1372,1372,2782,1973,Escherichia coli W
+iEK1008,1008,1226,998,Mycobacterium tuberculosis H37Rv
+iEKO11_1354,1354,2778,1972,Escherichia coli KO11FL
+iETEC_1333,1333,2756,1962,Escherichia coli ETEC H10407
+iG2583_1286,1283,2704,1919,Escherichia coli O5
+iHN637,637,785,698,Clostridium ljungdahlii DSM 13528
+iIS312,312,519,606,Trypanosoma cruzi Dm28c
+iIS312_Amastigote,312,519,606,Trypanosoma cruzi Dm28c
+iIS312_Epimastigote,312,519,606,Trypanosoma cruzi Dm28c
+iIS312_Trypomastigote,312,520,606,Trypanosoma cruzi Dm28c
+iIT341,339,554,485,Helicobacter pylori 26695
+iJB785,785,849,768,Synechococcus elongatus PCC 7942
+iJN1463,1462,2927,2153,Pseudomonas putida KT2440
+iJN678,622,863,795,Synechocystis sp. PCC 6803
+iJN746,746,1054,907,Pseudomonas putida KT2440
+iJO1366,1367,2583,1805,Escherichia coli str. K-12 substr. MG1655
+iJR904,904,1075,761,Escherichia coli str. K-12 substr. MG1655
+iLB1027_lipid,1027,4456,2172,Phaeodactylum tricornutum CCAP 1055/1
+iLF82_1304,1302,2726,1938,Escherichia coli LF82
+iLJ478,482,652,570,Thermotoga maritima MSB8
+iML1515,1516,2712,1877,Escherichia coli str. K-12 substr. MG1655
+iMM1415,1375,3726,2775,Mus musculus
+iMM904,905,1577,1226,Saccharomyces cerevisiae S288C
+iND750,750,1266,1059,Saccharomyces cerevisiae S288C
+iNF517,516,754,650,Lactococcus lactis subsp. cremoris MG1363
+iNJ661,661,1025,825,Mycobacterium tuberculosis H37Rv
+iNRG857_1313,1311,2735,1943,Escherichia coli O8
+iPC815,815,1961,1552,Yersinia pestis CO92
+iRC1080,1086,2191,1706,Chlamydomonas reinhardtii
+iS_1188,1188,2619,1914,Shigella flexneri 2a str. 2457T
+iSB619,619,743,655,Staphylococcus aureus subsp. aureus N315
+iSbBS512_1146,1147,2591,1910,Shigella boydii CDC 3083-94
+iSBO_1134,1134,2591,1908,Shigella boydii Sb227
+iSDY_1059,1059,2539,1888,Shigella dysenteriae Sd197
+iSF_1195,1195,2630,1917,Shigella flexneri 2a str. 301
+iSFV_1184,1184,2621,1917,Shigella flexneri 5 str. 8401
+iSFxv_1172,1169,2638,1918,Shigella flexneri 2002017
+iSSON_1240,1240,2693,1936,Shigella sonnei Ss046
+iSynCJ816,816,1044,928,Synechocystis sp. PCC 6803
+iUMN146_1321,1319,2735,1942,Escherichia coli UM146
+iUMNK88_1353,1353,2777,1969,Escherichia coli UMNK88
+iUTI89_1310,1310,2725,1940,Escherichia coli UTI89
+iWFL_1372,1372,2782,1973,Escherichia coli W
+iY75_1357,1358,2759,1953,Escherichia coli str. K-12 substr. W3110
+iYL1228,1229,2262,1658,Klebsiella pneumoniae subsp. pneumoniae MGH 78578
+iYO844,844,1250,990,Bacillus subtilis subsp. subtilis str. 168
+iYS1720,1707,3357,2436,Salmonella pan-reactome
+iYS854,866,1455,1335,Staphylococcus aureus subsp. aureus USA300_TCH1516
+iZ_1308,1308,2721,1923,Escherichia coli O15
+RECON1,1905,3741,2766,Homo sapiens
+Recon3D,2248,10600,5835,Homo sapiens
+STM_v1_0,1271,2545,1802,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2

@@ -1,0 +1,145 @@
+{
+    "metadata": [
+        [
+            54,
+            "g6935",
+            "KBaseGenomes.Genome-11.0",
+            "2020-06-29T01:21:14+0000",
+            1,
+            "jg",
+            30766,
+            "jg:narrative_1523488473240",
+            "5f1734f8097a9dd006dd3c7980f04be4",
+            14581562,
+            {
+                "Assembly Object": "30766/48/1",
+                "Domain": "Bacteria",
+                "GC content": "0.55066",
+                "Genetic code": "11",
+                "Genome Type": "Unknown",
+                "MD5": "1e74c30df21b114fe7ead47c5d35fc0c",
+                "Name": "g6935",
+                "Number contigs": "56",
+                "Number of CDS": "5343",
+                "Number of Genome Level Warnings": "2",
+                "Number of Protein Encoding Genes": "5343",
+                "Size": "5795056",
+                "Source": "PROKKA annotation pipeline",
+                "Taxonomy": "Unconfirmed Organism"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2020-06-29T01:21:13+0000",
+            "creator": "jg",
+            "epoch": 1593393673044,
+            "extracted_ids": {},
+            "info": [
+                54,
+                "g6935",
+                "KBaseGenomes.Genome-11.0",
+                "2020-06-29T01:21:14+0000",
+                1,
+                "jg",
+                30766,
+                "jg:narrative_1523488473240",
+                "5f1734f8097a9dd006dd3c7980f04be4",
+                14581562,
+                {
+                    "Assembly Object": "30766/48/1",
+                    "Domain": "Bacteria",
+                    "GC content": "0.55066",
+                    "Genetic code": "11",
+                    "Genome Type": "Unknown",
+                    "MD5": "1e74c30df21b114fe7ead47c5d35fc0c",
+                    "Name": "g6935",
+                    "Number contigs": "56",
+                    "Number of CDS": "5343",
+                    "Number of Genome Level Warnings": "2",
+                    "Number of Protein Encoding Genes": "5343",
+                    "Size": "5795056",
+                    "Source": "PROKKA annotation pipeline",
+                    "Taxonomy": "Unconfirmed Organism"
+                }
+            ],
+            "orig_wsid": 30766,
+            "path": [
+                "30766/54/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "description": "KBase SDK method run via the KBase Execution Engine",
+                    "epoch": 1593393485000,
+                    "external_data": [],
+                    "input_ws_objects": [
+                        "30766/48/1"
+                    ],
+                    "method": "annotate",
+                    "method_params": [
+                        {
+                            "evalue": null,
+                            "fast": 0,
+                            "gcode": 11,
+                            "genus": null,
+                            "kingdom": "Bacteria",
+                            "mincontiglen": 1,
+                            "norrna": 0,
+                            "notrna": 0,
+                            "object_ref": "jg:narrative_1523488473240/6935.IDBA.contigs",
+                            "output_genome_name": "g6935",
+                            "output_workspace": "jg:narrative_1523488473240",
+                            "rawproduct": 0,
+                            "rfam": 0,
+                            "scientific_name": "g6935"
+                        }
+                    ],
+                    "resolved_ws_objects": [
+                        "30766/48/1"
+                    ],
+                    "service": "ProkkaAnnotation",
+                    "service_ver": "d2ac4a05646509b4a8df99d12f93db9c321e1027",
+                    "subactions": [
+                        {
+                            "code_url": "https://github.com/kbaseapps/ProkkaAnnotation",
+                            "commit": "d2ac4a05646509b4a8df99d12f93db9c321e1027",
+                            "name": "ProkkaAnnotation",
+                            "ver": "d2ac4a05646509b4a8df99d12f93db9c321e1027"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/AssemblyUtil",
+                            "commit": "e88f41fd626697a0208179e8f5d6b0282e209f02",
+                            "name": "AssemblyUtil",
+                            "ver": "release"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/DataFileUtil",
+                            "commit": "df0bb6568008983c1daf6966cf8cebf54f0a0d80",
+                            "name": "DataFileUtil",
+                            "ver": "release"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/GenomeFileUtil",
+                            "commit": "08c16f698882cdfa8b9a6964e5f20b3576127142",
+                            "name": "GenomeFileUtil",
+                            "ver": "dev"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/WsLargeDataIO",
+                            "commit": "2a754eccec87112905cad0c6c69feecd95f6894d",
+                            "name": "WsLargeDataIO",
+                            "ver": "beta"
+                        }
+                    ],
+                    "time": "2020-06-29T01:18:05+0000"
+                }
+            ],
+            "refs": [
+                "30766/48/1",
+                "17159/4/1"
+            ]
+        }
+    ]
+}
